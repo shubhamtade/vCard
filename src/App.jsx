@@ -28,7 +28,7 @@ function App() {
         transition={{ duration: 1.5, ease: "easeOut" }}
       >
         <h1 className="name">
-          <span className="shine">Shubham Tade</span>
+          <span className="shine">Sagar Agrawal</span>
         </h1>
         <p className="tagline">
           Graphics Designer • Video Editor • Fullstack Developer
@@ -36,10 +36,10 @@ function App() {
 
         <div className="contact">
           <p>
-            <Phone size={18} /> 9822147873
+            <Phone size={18} /> 8149992327
           </p>
           <p>
-            <Mail size={18} /> shubham.tade@gmail.com
+            <Mail size={18} /> ssagrawal1994@gmail.com
           </p>
         </div>
 
